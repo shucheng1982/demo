@@ -2,18 +2,27 @@
   "users": [
     {
       "id": 1,
-      "email": "email1@email.com",
-      "username": "username1"
+      "firstName": "Eva",
+      "lastName": "Green",
+      "displayName": "Eva",
+      "email": "eva@email.com",
+      "password": "qQ1!"
     },
     {
       "id": 2,
-      "email": "email2@email.com",
-      "username": "username2"
+      "firstName": "Emma",
+      "lastName": "Stone",
+      "displayName": "Emma",
+      "email": "emma@email.com",
+      "password": "qQ1!"
     },
     {
       "id": 3,
-      "email": "email3@email.com",
-      "username": "username3"
+      "firstName": "Mila",
+      "lastName": "Azul",
+      "displayName": "Mila",
+      "email": "mila@email.com",
+      "password": "qQ1!"
     }
   ]
 }
